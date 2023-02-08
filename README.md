@@ -1,9 +1,12 @@
 Semana de Eventos - Soluções com Python 2/3
+
 Data Viking - 08/02/2023
+
 https://www.youtube.com/watch?v=zL3HpqV1K-E
 
 
 ![Alt text](tela_final.jpg)
+
 
 ------ Instruções ------
 pip install virtualenv
